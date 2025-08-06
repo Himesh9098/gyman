@@ -1,0 +1,398 @@
+[
+  {
+    "id": 101,
+    "name": "Rahul Sharma",
+    "age": "28",
+    "weight": "75",
+    "contact": "9876543210",
+    "start_date": "2024-01-15",
+    "end_date": "2025-08-06",
+    "plan": "Premium",
+    "workout": "Strength training, Cardio 3x/week",
+    "diet": "High protein, 2500 calories",
+    "plan_start": "2025-08-01",
+    "plan_end": "2025-08-31",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2025-08-01",
+    "payment_history": [
+      { "date": "2025-08-01", "amount": 1500 }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Priya Patel",
+    "age": "24",
+    "weight": "55",
+    "contact": "8765432109",
+    "start_date": "2024-02-01",
+    "end_date": "2025-08-06",
+    "plan": "Basic",
+    "workout": "Yoga, Pilates 2x/week",
+    "diet": "Balanced diet, 1800 calories",
+    "plan_start": "2025-08-01",
+    "plan_end": "2025-08-31",
+    "amount_paid": 1000,
+    "pending_amount": 0,
+    "last_payment_date": "2025-08-01",
+    "payment_history": [
+      { "date": "2025-08-01", "amount": 1000 }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Amit Kumar",
+    "age": "32",
+    "weight": "85",
+    "contact": "7654321098",
+    "start_date": "2024-03-10",
+    "end_date": "2025-08-06",
+    "plan": "Premium",
+    "workout": "Weight lifting, HIIT 4x/week",
+    "diet": "Bulking diet, 3000 calories",
+    "plan_start": "2025-08-01",
+    "plan_end": "2025-08-31",
+    "amount_paid": 1000,
+    "pending_amount": 1000,
+    "last_payment_date": "2025-08-01",
+    "payment_history": [
+      { "date": "2025-08-01", "amount": 1000 }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Neha Singh",
+    "age": "26",
+    "weight": "60",
+    "contact": "6543210987",
+    "start_date": "2024-04-05",
+    "end_date": "2025-08-06",
+    "plan": "Standard",
+    "workout": "Zumba, Cardio 3x/week",
+    "diet": "Weight loss, 1600 calories",
+    "plan_start": "2025-08-01",
+    "plan_end": "2025-08-31",
+    "amount_paid": 1200,
+    "pending_amount": 300,
+    "last_payment_date": "2025-08-01",
+    "payment_history": [
+      { "date": "2025-08-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Vikram Malhotra",
+    "age": "35",
+    "weight": "90",
+    "contact": "5432109876",
+    "start_date": "2024-05-20",
+    "end_date": "2025-08-06",
+    "plan": "Premium",
+    "workout": "CrossFit, Strength 5x/week",
+    "diet": "Keto diet, 2200 calories",
+    "plan_start": "2025-08-01",
+    "plan_end": "2025-08-31",
+    "amount_paid": 0,
+    "pending_amount": 2000,
+    "last_payment_date": null,
+    "payment_history": []
+  },
+  {
+    "id": 106,
+    "name": "Anjali Desai",
+    "age": "29",
+    "weight": "58",
+    "contact": "4321098765",
+    "start_date": "2024-06-12",
+    "end_date": "2024-12-16",
+    "plan": "Basic",
+    "workout": "Aerobics, Stretching 2x/week",
+    "diet": "Vegetarian, 1700 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 800,
+    "pending_amount": 200,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 800 }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Rajesh Verma",
+    "age": "40",
+    "weight": "78",
+    "contact": "3210987654",
+    "start_date": "2024-07-08",
+    "end_date": "2024-12-17",
+    "plan": "Standard",
+    "workout": "Functional training, Cardio 3x/week",
+    "diet": "Low carb, 2000 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1200,
+    "pending_amount": 0,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Sneha Reddy",
+    "age": "22",
+    "weight": "52",
+    "contact": "2109876543",
+    "start_date": "2024-08-15",
+    "end_date": "2024-12-18",
+    "plan": "Premium",
+    "workout": "Dance fitness, Yoga 4x/week",
+    "diet": "Clean eating, 1900 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1500 }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Arjun Mehta",
+    "age": "31",
+    "weight": "82",
+    "contact": "1098765432",
+    "start_date": "2024-09-03",
+    "end_date": "2024-12-19",
+    "plan": "Basic",
+    "workout": "Bodyweight exercises, Walking 3x/week",
+    "diet": "Mediterranean, 2400 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 0,
+    "pending_amount": 1000,
+    "last_payment_date": null,
+    "payment_history": []
+  },
+  {
+    "id": 110,
+    "name": "Kavya Iyer",
+    "age": "27",
+    "weight": "56",
+    "contact": "0987654321",
+    "start_date": "2024-10-18",
+    "end_date": "2024-12-20",
+    "plan": "Standard",
+    "workout": "Spinning, Core training 3x/week",
+    "diet": "Paleo diet, 1800 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1200,
+    "pending_amount": 0,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Suresh Nair",
+    "age": "45",
+    "weight": "88",
+    "contact": "9876543211",
+    "start_date": "2024-01-20",
+    "end_date": "2024-12-25",
+    "plan": "Premium",
+    "workout": "Senior fitness, Swimming 2x/week",
+    "diet": "Heart healthy, 2100 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1500 }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Meera Kapoor",
+    "age": "33",
+    "weight": "65",
+    "contact": "8765432101",
+    "start_date": "2024-02-14",
+    "end_date": "2024-12-28",
+    "plan": "Basic",
+    "workout": "Prenatal yoga, Light walking 2x/week",
+    "diet": "Pregnancy nutrition, 2200 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1000,
+    "pending_amount": 0,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1000 }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Deepak Gupta",
+    "age": "38",
+    "weight": "95",
+    "contact": "7654321091",
+    "start_date": "2024-03-25",
+    "end_date": "2024-12-30",
+    "plan": "Standard",
+    "workout": "Weight loss program, Cardio 4x/week",
+    "diet": "Calorie deficit, 1800 calories",
+    "plan_start": "2024-12-01",
+    "plan_end": "2024-12-31",
+    "amount_paid": 1200,
+    "pending_amount": 0,
+    "last_payment_date": "2024-12-01",
+    "payment_history": [
+      { "date": "2024-12-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Pooja Sharma",
+    "age": "25",
+    "weight": "54",
+    "contact": "6543210981",
+    "start_date": "2024-04-30",
+    "end_date": "2025-01-05",
+    "plan": "Premium",
+    "workout": "Pole dancing, Flexibility 3x/week",
+    "diet": "Athletic performance, 2000 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1500 }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Mohan Das",
+    "age": "42",
+    "weight": "92",
+    "contact": "5432109871",
+    "start_date": "2024-05-12",
+    "end_date": "2025-01-10",
+    "plan": "Basic",
+    "workout": "Rehabilitation exercises, Walking 2x/week",
+    "diet": "Diabetic friendly, 1900 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1000,
+    "pending_amount": 0,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1000 }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Sunita Rao",
+    "age": "36",
+    "weight": "68",
+    "contact": "4321098761",
+    "start_date": "2024-06-08",
+    "end_date": "2025-01-15",
+    "plan": "Standard",
+    "workout": "Boxing, Strength training 3x/week",
+    "diet": "Sports nutrition, 2300 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1200,
+    "pending_amount": 0,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Ravi Kumar",
+    "age": "29",
+    "weight": "76",
+    "contact": "3210987651",
+    "start_date": "2024-07-22",
+    "end_date": "2025-01-20",
+    "plan": "Premium",
+    "workout": "MMA training, Conditioning 4x/week",
+    "diet": "Fighter diet, 2800 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1500 }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Lakshmi Devi",
+    "age": "48",
+    "weight": "72",
+    "contact": "2109876541",
+    "start_date": "2024-08-05",
+    "end_date": "2025-01-25",
+    "plan": "Basic",
+    "workout": "Gentle yoga, Tai chi 2x/week",
+    "diet": "Anti-inflammatory, 1700 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1000,
+    "pending_amount": 0,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1000 }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Krishna Prasad",
+    "age": "34",
+    "weight": "80",
+    "contact": "1098765431",
+    "start_date": "2024-09-18",
+    "end_date": "2025-01-30",
+    "plan": "Standard",
+    "workout": "Rock climbing, Bouldering 3x/week",
+    "diet": "High energy, 2600 calories",
+    "plan_start": "2025-01-01",
+    "plan_end": "2025-01-31",
+    "amount_paid": 1200,
+    "pending_amount": 0,
+    "last_payment_date": "2025-01-01",
+    "payment_history": [
+      { "date": "2025-01-01", "amount": 1200 }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Divya Menon",
+    "age": "23",
+    "weight": "50",
+    "contact": "0987654321",
+    "start_date": "2024-10-10",
+    "end_date": "2025-02-05",
+    "plan": "Premium",
+    "workout": "Barre, Ballet fitness 4x/week",
+    "diet": "Dancer's diet, 1900 calories",
+    "plan_start": "2025-02-01",
+    "plan_end": "2025-02-28",
+    "amount_paid": 1500,
+    "pending_amount": 500,
+    "last_payment_date": "2025-02-01",
+    "payment_history": [
+      { "date": "2025-02-01", "amount": 1500 }
+    ]
+  }
+]
